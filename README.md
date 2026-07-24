@@ -1,2 +1,2 @@
-# unknown-space-game
-A demo of the Godot Game Engine
+# A Space Game made in Godot
+My first project in Godot, exploring gravity, motion and actions.
